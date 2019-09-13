@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Compute
-- platforms: java
+description: "Getting Started with Compute - Create Virtual Machine Using Custom Image From VM - in Java"
+urlFragment: managed-disk-java-create-virtual-machine-using-custom-image
 ---
 
 # Getting Started with Compute - Create Virtual Machine Using Custom Image From VM - in Java #
