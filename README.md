@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-- services: Compute
-- platforms: java
+  services: Compute
+  platforms: java
 ---
 
 # Getting Started with Compute - Create Virtual Machine Using Custom Image From VM - in Java #
